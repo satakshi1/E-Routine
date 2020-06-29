@@ -1,0 +1,31 @@
+*{
+	text-align: right;
+}
+
+body,
+html{  
+background: url(image2.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+	background-color: white;
+      
+}
+
+
+h1, a{
+	text-align : center;
+	font-family: 'Piedra', cursive;
+	transition: all 1s;
+}
+
+h1:hover {
+	transform: scale(2);
+}
+
+
+
